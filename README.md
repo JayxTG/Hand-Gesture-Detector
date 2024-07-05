@@ -16,8 +16,8 @@ The tool captures video from a connected webcam, processes each frame to detect 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Hand-Gesture-Tracker.git
-   cd Hand-Gesture-Tracker
+   git clone https://github.com/JayxTG/Hand-Gesture-Detector.git
+   cd Hand-Gesture-Detector
    ```
 2. ** Install Dependencies: Ensure you have Python installed along with the necessary libraries: **
    ```bash
