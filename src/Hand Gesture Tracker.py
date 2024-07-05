@@ -1,10 +1,6 @@
 """
 Author: Jayamadu Gammune
 
-This script implements a Hole Centering Tool using computer vision techniques.
-It detects circular shapes (holes) from a webcam feed and provides visual feedback
-to align these holes with a crosshair displayed on the screen.
-
 Permission is hereby granted, free of charge, to any person obtaining a copy of 
 this software and associated documentation files (the "Software"), to deal in 
 the Software without restriction, including without limitation the rights to 
