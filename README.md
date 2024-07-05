@@ -19,15 +19,15 @@ The tool captures video from a connected webcam, processes each frame to detect 
    git clone https://github.com/JayxTG/Hand-Gesture-Detector.git
    cd Hand-Gesture-Detector
    ```
-2. ** Install Dependencies: Ensure you have Python installed along with the necessary libraries: **
+2. **Install Dependencies:**
    ```bash
-      pip install opencv-python mediapipe
+    pip install -r requirements.txt
    ```
-3. ** Run the Application: Execute the hand_gesture_tracker.py script to start the application: **
+3. **Run the Application: Execute the hand_gesture_tracker.py script to start the application:**
   ```bash
    python hand_gesture_tracker.py
    ```
-4. ** Usage: **
+4. **Usage:**
 - Position your hand in view of the webcam.
 - The application will detect and recognize gestures, displaying the recognized gesture on the video feed.
 - Press 'q' on your keyboard to close the application and release the webcam.
